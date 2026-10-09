@@ -1,0 +1,22 @@
+{
+  "title": "Codex Skills",
+  "type": "操作流程示意，非实机录屏",
+  "steps": [
+    {
+      "action": "选择任务领域",
+      "description": "从写作、设计、监测中选择"
+    },
+    {
+      "action": "打开对应 Skill",
+      "description": "阅读 SKILL.md 的触发与规则"
+    },
+    {
+      "action": "准备输入资料",
+      "description": "提供任务、素材和约束"
+    },
+    {
+      "action": "执行与检查输出",
+      "description": "依据 Skill 要求核对产出"
+    }
+  ]
+}
