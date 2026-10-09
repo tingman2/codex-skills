@@ -1,0 +1,23 @@
+{
+  "title": "Codex Skills",
+  "duration_seconds": 9,
+  "fps": 8,
+  "scenes": [
+    {
+      "scene": "写作与创作",
+      "source": "writing-creation/human-writing/SKILL.md",
+      "type": "repository content walkthrough"
+    },
+    {
+      "scene": "产品与设计",
+      "source": "product-design/agent-suite/SKILL.md",
+      "type": "repository content walkthrough"
+    },
+    {
+      "scene": "监测与测试",
+      "source": "monitoring-testing/visual-regression-testing/SKILL.md",
+      "type": "repository content walkthrough"
+    }
+  ],
+  "note": "Existing repository material; no live model calls or production availability claim."
+}
