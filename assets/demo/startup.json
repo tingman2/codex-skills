@@ -1,38 +1,8 @@
 {
-  "title": "Codex Skills",
-  "mode": "实际脚本输出排版 · 内置示例数据",
-  "notes": "执行商品差异化 analyzer.py 内置示例，按实际 stdout 排版为终端动画；这是规则脚本演示，未调用 AI。",
-  "source": "work/demo-production/captures/codex-skills",
+  "style": "全画幅实际界面操作录制，无宣传外框或模拟点击",
   "capture_date": "2026-10-10",
-  "editorial_effects": [
-    "browser frame",
-    "startup reveal",
-    "camera focus",
-    "click cue",
-    "captions",
-    "loop"
-  ],
-  "timing": "剪辑后的展示节奏，不代表真实处理耗时",
-  "steps": [
-    {
-      "capture": "01-start.png",
-      "action": "运行分析脚本",
-      "caption": "启动仓库中的商品差异化分析示例"
-    },
-    {
-      "capture": "02-matrix.png",
-      "action": "查看比较矩阵",
-      "caption": "脚本输出价格、评分与评论量"
-    },
-    {
-      "capture": "03-opportunities.png",
-      "action": "分析痛点与机会",
-      "caption": "根据内置评论数据输出差异化机会"
-    },
-    {
-      "capture": "04-actions.png",
-      "action": "查看行动建议",
-      "caption": "浏览脚本生成的策略与建议"
-    }
-  ]
+  "frames": 72,
+  "duration_seconds": 16.26,
+  "timing": "输入与阅读停留经过剪辑，不代表实际模型耗时",
+  "notes": "执行仓库商品差异化 analyzer.py 的内置示例，将真实 stdout 重排为逐行终端动画；这是规则脚本演示，不调用 AI。"
 }

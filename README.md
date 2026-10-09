@@ -1,12 +1,12 @@
-## 启动与操作演示
+## 界面操作演示
 
 <p align="center">
-  <a href="assets/demo/startup.mp4"><img src="assets/demo/startup.gif" width="640" alt="Codex Skills 启动与操作演示"></a>
+  <a href="assets/demo/startup.mp4"><img src="assets/demo/startup.gif" width="960" alt="Codex Skills 启动与操作演示"></a>
 </p>
 
 [观看 / 下载完整视频](assets/demo/startup.mp4) · [演示说明](assets/demo/startup.json)
 
-执行商品差异化 analyzer.py 内置示例，按实际 stdout 排版为终端动画；这是规则脚本演示，未调用 AI。 画面加入启动转场、镜头移动与操作字幕；展示节奏经过剪辑，不代表真实处理耗时。
+执行仓库商品差异化 analyzer.py 的内置示例，将真实 stdout 重排为逐行终端动画；这是规则脚本演示，不调用 AI。 画面按操作顺序录制，输入与阅读停留经过剪辑，不代表实际模型耗时。
 
 # Codex Skills 精选集合
 
